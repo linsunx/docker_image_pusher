@@ -1,4 +1,9 @@
 #支持私库
-opengrok/docker
+#opengrok/docker
+linuxserver/prowlarr
+#linuxserver/sonarr
+#linuxserver/radarr
+#linuxserver/jackett
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist linsunx/prowlarr
+--platform=linux/arm64 linsunx/prowlarr
