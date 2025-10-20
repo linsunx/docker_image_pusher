@@ -1,7 +1,7 @@
 #支持私库
 #opengrok/docker
 #linuxserver/prowlarr
-linuxserver/sonarr
+#linuxserver/sonarr
 #linuxserver/radarr
 #linuxserver/jackett
 #heavrnl/nexus-terminal-frontend
@@ -9,7 +9,7 @@ linuxserver/sonarr
 #heavrnl/nexus-terminal-remote-gateway
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist linsunx/prowlarr
-#--platform=linux/arm64 linuxserver/sonarr
+--platform=linux/amd64 linuxserver/sonarr
 #--platform=linux/arm64 linuxserver/radarr
 #--platform=linux/arm64 linuxserver/jackett
 #--platform=linux/arm64 heavrnl/nexus-terminal-frontend
