@@ -2,11 +2,11 @@
 #opengrok/docker
 #linuxserver/prowlarr
 linuxserver/sonarr
-linuxserver/radarr
-linuxserver/jackett
-heavrnl/nexus-terminal-frontend
-heavrnl/nexus-terminal-backend
-heavrnl/nexus-terminal-remote-gateway
+#linuxserver/radarr
+#linuxserver/jackett
+#heavrnl/nexus-terminal-frontend
+#heavrnl/nexus-terminal-backend
+#heavrnl/nexus-terminal-remote-gateway
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist linsunx/prowlarr
 #--platform=linux/arm64 linuxserver/sonarr
