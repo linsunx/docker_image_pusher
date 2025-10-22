@@ -10,8 +10,9 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist linsunx/prowlarr
 #--platform=linux/amd64 linuxserver/sonarr
---platform=linux/amd64 linuxserver/radarr
---platform=linux/amd64 linuxserver/jackett
---platform=linux/amd64 heavrnl/nexus-terminal-frontend
---platform=linux/amd64 heavrnl/nexus-terminal-backend
---platform=linux/amd64 heavrnl/nexus-terminal-remote-gateway
+#--platform=linux/amd64 linuxserver/radarr
+#--platform=linux/amd64 linuxserver/jackett
+#--platform=linux/amd64 heavrnl/nexus-terminal-frontend
+#--platform=linux/amd64 heavrnl/nexus-terminal-backend
+#--platform=linux/amd64 heavrnl/nexus-terminal-remote-gateway
+--platform=linux/amd64 ghcr.io/wy580477/musicn-container
