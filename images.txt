@@ -18,5 +18,7 @@
 #--platform=linux/amd64 ghcr.io/wy580477/musicn-container
 #--platform=linux/amd64 hectorqin/reader
 #--platform=linux/amd64 hectorqin/remote-webview
---platform=linux/amd64 hanxi/xiaomusic
---platform=linux/amd64 advplyr/audiobookshelf
+#--platform=linux/amd64 hanxi/xiaomusic
+#--platform=linux/amd64 advplyr/audiobookshelf
+--platform=linux/amd64 filebrowser/filebrowser
+--platform=linux/amd64 taleBook/taleBook
