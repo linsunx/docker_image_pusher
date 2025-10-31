@@ -22,4 +22,5 @@
 #--platform=linux/amd64 advplyr/audiobookshelf
 #--platform=linux/amd64 filebrowser/filebrowser
 #--platform=linux/amd64 taleBook/taleBook
---platform=linux/amd64 iib0011/omni-tools:latest
+#--platform=linux/amd64 iib0011/omni-tools:latest
+--platform=linux/amd64 guacamole/guacd
