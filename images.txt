@@ -26,5 +26,5 @@
 #--platform=linux/amd64 guacamole/guacd
 #--platform=linux/amd64 wu529778790/panhub.shenzjd.com
 --platform=linux/amd64 wcjiang/reference
---platform=linux/amd64 langgenius/dify
+#--platform=linux/amd64 langgenius/dify
 --platform=linux/amd64 continuumio/anaconda3
